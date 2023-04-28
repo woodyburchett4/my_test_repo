@@ -1,2 +1,3 @@
-# my_test_repo
-Repository to Test GitHub
+# My Test Repo
+
+This is a repository to test GitHub features, like verified commits, for instance.
